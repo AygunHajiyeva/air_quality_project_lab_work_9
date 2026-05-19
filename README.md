@@ -17,6 +17,7 @@ The project uses:
 - FastAPI endpoint to add a new device
 - Flet desktop UI with a device records table
 - Add New form with basic validation
+- NavigationBar for switching between Records and Add New views
 - Success and error snackbar messages
 - Data persistence using SQLite
 
